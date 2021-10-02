@@ -1,6 +1,6 @@
 using System;
 
-namespace ContosoPizza
+namespace ContosoPizza.Models
 {
     public class WeatherForecast
     {
